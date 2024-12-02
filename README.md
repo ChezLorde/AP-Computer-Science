@@ -37,6 +37,7 @@ Unit 1
     - 1.2.5-Legend of the Dot Dots: A game where you must avoid waves of oncoming enemies by making them crash into each other.
 
   Lesson 1.3
+  
     - 1.3.1: A password generator. 
 
   Create Task: A text-based adventure game where you must travel through rooms looking for items.
