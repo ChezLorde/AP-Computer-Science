@@ -35,5 +35,7 @@ Unit 1
     - 1.2.4-maze-collisions-v2: My improved method for turtle collisions, where ranges of values are saved. This makes the program much faster and more reliable.
 
     - 1.2.5-Legend of the Dot Dots: A game where you must avoid waves of oncoming enemies by making them crash into each other.
+
+  Create Task: A text-based adventure game where you must travel through rooms looking for items.
     
     
