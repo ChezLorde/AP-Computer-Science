@@ -53,10 +53,13 @@ Unit 3
     - 3.2.1 Temp Analysis: Analyzes and plots the data from 3.2.1_temperature_data using pandas and matplotlib.
 
     - 3.2.1 CO2 Analysis: Analyzes and plots the data from 3.2.1_co2_data using pandas and matplotlib.
-
+    
     - 3.2.2 Analysis: Analyzes electrical access data from 3.2.2_elec_access_data and plots it.
-  
 
+    - 3.2.3 Traveller Problem: Brute-force solves the "traveller problem" between five cities.
+
+    - 3.2.3 Binary and Linear Search: Compares binary and linear search in finding a number in a given range.
+  
   Create Task: A text-based adventure game where you must travel through rooms looking for items.
     
     
