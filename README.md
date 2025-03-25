@@ -39,6 +39,23 @@ Unit 1
   Lesson 1.3
   
     - 1.3.1: A password generator. 
+    
+Unit 2
+
+  Lesson 2.1
+
+    - 2.1.4 Tkinter: A model login interface created using Tkinter; not quite operational.
+
+Unit 3
+
+  Lesson 3.2
+
+    - 3.2.1 Temp Analysis: Analyzes and plots the data from 3.2.1_temperature_data using pandas and matplotlib.
+
+    - 3.2.1 CO2 Analysis: Analyzes and plots the data from 3.2.1_co2_data using pandas and matplotlib.
+
+    - 3.2.2 Analysis: Analyzes electrical access data from 3.2.2_elec_access_data and plots it.
+  
 
   Create Task: A text-based adventure game where you must travel through rooms looking for items.
     
