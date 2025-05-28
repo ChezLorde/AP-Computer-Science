@@ -46,6 +46,10 @@ Unit 2
 
     - 2.1.4 Tkinter: A model login interface created using Tkinter; not quite operational.
 
+  Lesson 2.3
+
+    - 2.3.1 encode and decode: Creates an encrypted image that can be decoded.
+
 Unit 3
 
   Lesson 3.2
